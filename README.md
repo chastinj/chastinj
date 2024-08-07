@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chastinj 
 - 👀 I’m interested in ... Software Wise: containerization, virtual computing, Python, C++ and GoLang
-- 🌱 I’m currently learning ... goLang
+- 🌱 I’m currently learning ... goLang, django, C++, and more. Yes all at once. 
 - 💞️ I’m looking to collaborate on ... anything. At the moment I am open.
 - 📫 How to reach me ... via email cjd157@gmail.com 
 - 😄 Pronouns: ... He / Him
